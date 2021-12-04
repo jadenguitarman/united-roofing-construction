@@ -6,14 +6,7 @@
         "secondaryColors": "colors-f",
         "title": "Startup.io",
         "isTitleVisible": false,
-        "primaryLinks": [
-            {
-                "type": "Link",
-                "label": "Blog",
-                "altText": "Blog",
-                "url": "/blog"
-            }
-        ],
+        "primaryLinks": [],
         "secondaryLinks": [
             {
                 "type": "Button",
