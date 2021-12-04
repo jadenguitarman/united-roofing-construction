@@ -111,7 +111,7 @@ sections:
     type: TextSection
   - elementId: ''
     colors: colors-a
-    title: 'A great feature, we’re proud of'
+    title: Job 1
     text: >
       Share WIP, comment on each other’s work, approve what’s ready to go, ship
       together
