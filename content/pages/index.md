@@ -46,8 +46,6 @@ sections:
   - elementId: ''
     colors: colors-a
     text: >
-
-
       ## A Letter From Clint
 
 
