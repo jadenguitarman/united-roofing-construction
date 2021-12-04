@@ -112,9 +112,8 @@ sections:
   - elementId: ''
     colors: colors-a
     title: Job 1
-    text: >
-      Share WIP, comment on each other’s work, approve what’s ready to go, ship
-      together
+    text: |
+      Lorem ipsum dolor sit amet.
     media:
       type: ImageBlock
       url: /images/Image-on-the-right.svg
