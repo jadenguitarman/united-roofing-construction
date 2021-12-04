@@ -45,12 +45,44 @@ sections:
         justifyContent: flex-start
   - elementId: ''
     colors: colors-a
-    text: >+
-      ## “We sometimes write things. You should read it, it might shed some
-      light on why we’re doing what we’re doing”
+    text: >
+      ## A Letter From Clint
 
-      [See all posts](/blog)
 
+      Hi there! I'm Clint, the owner and tradesman here at United Roofing and
+      Construction Services.
+
+
+      Ever since I was young, I was taught that honesty, integrity, and hard
+      work are the ingredients to success. Of course, as a young man, I didn’t
+      fully comprehend it then, but eventually, I realized just how true that
+      statement really is.
+
+
+      With that lesson in mind, I started my journey in full-time construction
+      when I was fifteen years old, but this family business began in 2002. I
+      pride myself on doing everything from the ground up: from digging the
+      first footers all the way through framing, roofing, and tiling, before
+      adding the finishing touches with high-quality carpentry. This wide range
+      of specialties gave me the unique privilege of building my family's home -
+      something not everyone gets a chance to do. That skillset also opened up a
+      lot of opportunities in my career, and I’m very grateful for them, but
+      most importantly, I’m thankful for all the close relationships that I
+      established with homeowners, builders, suppliers, and workers over the
+      decades.
+
+
+      Now that I'm a father myself, I'm passing on to my daughters that same
+      lesson — that honesty, integrity, and hard work are what matter most in
+      life — and I'm proud to be bringing that attitude to construction in the
+      Charleston, SC area. If that sounds like someone you want to work with,
+      give me a call at (843) 408-5752.
+
+
+      Sincerely, 
+
+
+      Clint Mansergh
     styles:
       self:
         height: auto
