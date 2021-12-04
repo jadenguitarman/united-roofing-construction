@@ -46,6 +46,8 @@ sections:
   - elementId: ''
     colors: colors-a
     text: >
+
+
       ## A Letter From Clint
 
 
@@ -79,7 +81,7 @@ sections:
       give me a call at (843) 408-5752.
 
 
-      Sincerely, 
+      Sincerely,
 
 
       Clint Mansergh
