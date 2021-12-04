@@ -184,10 +184,8 @@ sections:
     colors: colors-a
     title: Job 3
     subtitle: ''
-    text: >-
-      One platform, one community, getting to the bottom line of everything
-      employment.  Figure out your benefits, practice for interviews, get
-      mentored, help peers, get helped in return.
+    text: |
+      Lorem ipsum dolor sit amet.
     actions: []
     media:
       type: ImageBlock
