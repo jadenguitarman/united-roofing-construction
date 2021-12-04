@@ -8,12 +8,7 @@ sections:
     title: United Roofing and Construction
     text: |
       Craftsmanship defined by honesty, integrity, and hard work.
-    actions:
-      - type: Button
-        label: Sign up
-        url: 'https://www.stackbit.com/'
-        style: primary
-        elementId: hero-main-button
+    actions: []
     media:
       type: ImageBlock
       url: /images/hero-1.png
