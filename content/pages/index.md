@@ -50,10 +50,6 @@ sections:
       Learn how top tech companies have learned working remote using our
       product.
     actions:
-      - type: Button
-        label: Sign Up
-        url: /
-        style: primary
       - type: Link
         label: Watch Video
         url: /
