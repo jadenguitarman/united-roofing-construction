@@ -148,7 +148,7 @@ sections:
     type: HeroSection
   - elementId: ''
     colors: colors-a
-    title: And a strong value proposition
+    title: Job 2
     text: >
       Share WIP, comment on each other’s work, approve what’s ready to go, ship
       together
