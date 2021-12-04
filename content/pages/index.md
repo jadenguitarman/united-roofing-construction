@@ -49,12 +49,7 @@ sections:
     text: >
       Learn how top tech companies have learned working remote using our
       product.
-    actions:
-      - type: Link
-        label: Watch Video
-        url: /
-        showIcon: true
-        icon: arrowRight
+    actions: []
     styles:
       self:
         height: auto
