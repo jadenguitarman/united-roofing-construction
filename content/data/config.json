@@ -56,14 +56,7 @@
             "addressAltText": "Our address"
         },
         "copyrightText": "Site created by [Jaden Baptista](jaden.baptista.dev).\n",
-        "primaryLinks": [
-            {
-                "type": "Link",
-                "label": "Blog",
-                "url": "/blog",
-                "altText": ""
-            }
-        ],
+        "primaryLinks": [],
         "socialLinks": [
             {
                 "type": "Social",
