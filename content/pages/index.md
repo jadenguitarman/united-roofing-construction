@@ -11,7 +11,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/hero-1.png
+      url: /images/path937.png
       altText: Image alt text
       caption: Image caption
     styles:
