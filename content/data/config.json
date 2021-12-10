@@ -55,7 +55,7 @@
             "address": "312 Lovely Street, NY",
             "addressAltText": "Our address"
         },
-        "copyrightText": "Powered by Stackbit",
+        "copyrightText": "Site created by [Jaden Baptista](jaden.baptista.dev).\n",
         "primaryLinks": [
             {
                 "type": "Link",
